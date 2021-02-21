@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## what is growth minds
 
-You can use the [editor on GitHub](https://github.com/jehadmohmmad/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In *groth mindset* we have to believe that their most basic abilities can be devolped through dedication 
+and hard work - brains and talent are just the starting points *people* are porn with unique genetic strucures meaning they initially better than other at different things ..
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> By contrast, in a fixed mindset,intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
 
-### Markdown
+<h2 id="how-to-keep-yourself-in-agroth-mindset">how to keep yourself in agroth mindset<a class="anchorjs-link " href="#how-to-keep-yourself-in-agroth-mindset" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. trying deffernt learning tactics
+2. stop seeking approval
+3. replace effort before
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jehadmohmmad/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### https://github.com/jehadmohmmad ###
