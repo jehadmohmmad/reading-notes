@@ -14,3 +14,6 @@ and hard work - brains and talent are just the starting points **people** are po
 3. replace effort before
 
 ### https://github.com/jehadmohmmad ###
+
+### Who Iam ?
+ *im jehad mohmmad 30 years old , graduated toursm manegment  from alkhwarzmi college*
