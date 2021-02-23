@@ -1,19 +1,19 @@
-# Growth mindset
+# What is a computer?
 
-In **groth mindset** we have to believe that their most basic abilities can be devolped through dedication 
-and hard work - brains and talent are just the starting points **people** are porn with unique genetic strucures meaning they initially better than other at different things .
-
-!https://miro.medium.com/max/781/1*ninBE6iYHSbeHy5y3MxiOg.png[](image.jpg)
-
-> By *contrast*, in a fixed mindset,intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
-
-## how to keep yourself in agroth mindset
  
-1. trying deffernt learning tactics
-2. stop seeking approval
-3. replace effort before
+A **computer** is an electronic device that manipulates information, or data. It has the ability to store, retrieve, and process data. You may already know that you can use a computer to type documents, send email, play games, and browse the Web. You can also use it to edit or create spreadsheets, presentations, and even videos.
 
-### https://github.com/jehadmohmmad ###
 
-### Who Iam ?
- *im jehad mohmmad 30 years old , graduated toursm manegment  from alkhwarzmi college*
+## Hardware vs. software
+
+> **Hardware** is any part of your computer that has a physical structure, such as the keyboard or mouse. It also includes all of the computer's internal parts.
+> **Software** is any set of instructions that tells the hardware what to do and how to do it. Examples of software include web browsers, games, and word processors.
+
+### binary and data
+
+Computers use **binary** - the digits 0 and 1 - to store data. A **binary** digit, or bit, is the smallest unit of data in computing. It is represented by a 0 or a 1. **Binary** numbers are made up of binary digits (bits), eg the binary number 1001.
+
+All software, music, documents, and any other information that is processed by a computer, is also stored using **binary**.
+
+
+
